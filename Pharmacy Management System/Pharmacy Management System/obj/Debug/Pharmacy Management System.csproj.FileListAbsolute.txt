@@ -1,0 +1,45 @@
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csprojAssemblyReference.cache
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_Admin.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_Employee.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_AddEmployee.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_UpdateEmployee.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_ViewEmployee.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_DeleteEmployee.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_AddSupplier.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_UpdateSupplier.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_ViewSupplier.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_DeleteSupplier.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_AddMedicine.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_UpdateMedicine.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_ViewMedicine.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_DeleteMedicine.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_Login.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_AddMedicineType.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_UpdateMedicineType.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\bin\Debug\EntityFramework.dll
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\bin\Debug\EntityFramework.xml
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CopyComplete
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_ViewMedicineType.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_AddAdmin.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_UpdateAdmin.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_ViewAdmin.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_DeleteAdmin.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_DeleteMedicineType.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_Backup.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_AddPurOrder.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_Order.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_AddGRN.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_PrintGRN.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_UpdateGRN.resources
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\CODSE19.1F-034\Code 3\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form_ViewGRN.resources
